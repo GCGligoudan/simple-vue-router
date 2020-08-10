@@ -1,6 +1,6 @@
 class HistoryRoute {
   constructor(){
-    this.current = null;
+    this.current = null; // 默认路径是不是应该为 '/' ?
   }
 }
 class VueRouter {
